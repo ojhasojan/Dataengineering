@@ -1,0 +1,43 @@
+2026-01-22 06:21:51,299 - INFO- Starting daily sales load...
+2026-01-22 06:21:51,301 - INFO- CSV loaded successfully with 500 rows.
+2026-01-22 06:21:51,304 - INFO- Process finished.
+2026-01-22 12:07:34,862 - INFO- Starting daily sales load...
+2026-01-22 12:07:34,866 - INFO- CSV loaded successfully with 502 rows.
+2026-01-22 12:07:34,870 - INFO- Process finished.
+2026-01-22 12:08:43,507 - INFO- Starting daily sales load...
+2026-01-22 12:08:43,511 - INFO- CSV loaded successfully with 508 rows.
+2026-01-22 12:08:43,516 - INFO- Process finished.
+2026-01-22 12:18:43,441 - INFO- Starting daily sales load...
+2026-01-22 12:18:43,446 - INFO- CSV loaded successfully with 508 rows and 4 columns.
+2026-01-22 12:18:43,802 - ERROR- Error while loading CSV to Postgres: (psycopg2.OperationalError) could not translate host name "host.docker.internal" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-22 06:34:32,241 - INFO- Starting daily sales load...
+2026-01-22 06:34:32,243 - INFO- CSV loaded successfully with 508 rows and 4 columns.
+2026-01-22 06:34:32,318 - INFO- Data successfully loaded into Postgres table 'daily_sales'.
+2026-01-22 06:34:32,321 - INFO- Process finished.
+2026-01-22 12:19:50,673 - INFO- Starting daily sales load...
+2026-01-22 12:19:50,678 - INFO- CSV loaded successfully with 508 rows and 4 columns.
+2026-01-22 12:19:50,726 - ERROR- Error while loading CSV to Postgres: (psycopg2.OperationalError) could not translate host name "host.docker.internal" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-01-22 12:23:06,972 - INFO- Starting daily sales load...
+2026-01-22 12:23:06,977 - INFO- CSV loaded successfully with 508 rows and 4 columns.
+2026-01-22 12:23:07,138 - INFO- Data successfully loaded into Postgres table 'daily_sales'.
+2026-01-22 12:23:07,142 - INFO- Process finished.
+2026-01-22 12:26:13,937 - INFO- Starting daily sales load...
+2026-01-22 12:26:13,944 - INFO- CSV loaded successfully with 502 rows and 4 columns.
+2026-01-22 12:26:14,100 - INFO- Data successfully loaded into Postgres table 'daily_sales'.
+2026-01-22 12:26:14,105 - INFO- Process finished.
+2026-01-22 12:26:51,565 - INFO- Starting daily sales load...
+2026-01-22 12:26:51,567 - INFO- CSV loaded successfully with 502 rows and 4 columns.
+2026-01-22 12:26:51,690 - INFO- Data successfully loaded into Postgres table 'daily_sales'.
+2026-01-22 12:26:51,693 - INFO- Process finished.
+2026-01-22 12:26:55,863 - INFO- Starting daily sales load...
+2026-01-22 12:26:55,865 - INFO- CSV loaded successfully with 502 rows and 4 columns.
+2026-01-22 12:26:55,964 - INFO- Data successfully loaded into Postgres table 'daily_sales'.
+2026-01-22 12:26:55,967 - INFO- Process finished.
+2026-01-22 12:29:05,526 - INFO- Starting daily sales load...
+2026-01-22 12:29:05,532 - INFO- CSV loaded successfully with 570 rows and 4 columns.
+2026-01-22 12:29:05,661 - INFO- Data successfully loaded into Postgres table 'daily_sales'.
+2026-01-22 12:29:05,666 - INFO- Process finished.
